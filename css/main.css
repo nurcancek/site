@@ -3,6 +3,7 @@
 
 /*! layout */
 @import url(layout/header.css);
+@import url(layout/footer.css);
 
 /*! components */
 @import url(components/modal-serch.css);
@@ -11,6 +12,7 @@
 @import url(components/product-item.css);
 @import url(components/compaign-item.css);
 @import url(components/blog-item.css);
+@import url(components/campaign-single.css);
 
 /*! pages  */
 @import url(pages/home.css);
